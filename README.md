@@ -1,6 +1,6 @@
 ### Hi There! 반갑습니다 🙌 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=medium&link=https://medium.com/@wannapple)](https://medium.com/@wannapple)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minkyeong-ko/)](https://www.linkedin.com/in/minkyeong-ko/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=tistory&link=https://mila00a.tistory.com)](https://mila00a.tistory.com)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minkyeong-ko/)](https://www.linkedin.com/in/minkyeong-ko/)
 - 매일 매일 성실하게, 원칙을 지키고 또 새롭게 만들면서 일하는 개발자가 되고 싶습니다. 
 - 처음 해 본 것일 수록 강합니다. 새로운 도전을 기다립니다!
 
